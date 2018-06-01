@@ -13,7 +13,7 @@ We are now collecting dubbo user info in order to help us to improve dubbo bette
 ## Links
 
 * [Side projects](https://github.com/apache/incubator-dubbo)
-    * [Dubbo Spring Boot](https://github.com/apache/incubator-dubbo-spring-boot-project) - Spring Boot Project for Dubbo.
+    * [Dubbo Spring Boot](https://github.com/moses-keqi/spring-boot-starter-dubbo) - Spring Boot Project for Dubbo.
     * [Dubbo ops](https://github.com/apache/incubator-dubbo-ops) - The reference implementation for dubbo ops(dubbo-admin,dubbo-monitor-simple,dubbo-registry-simple,etc.).
     * [Dubbo website](https://github.com/apache/incubator-dubbo-website) - Apache Dubbo (incubating) documents
     * [Dubbo rpc-jsonrpc](https://github.com/apache/incubator-dubbo-rpc-jsonrpc) - The Json rpc module of Apache Dubbo (incubating) project
