@@ -1,0 +1,1 @@
+/bin/sh -c cd /Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-filter/dubbo-filter-cache && javac @/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-filter/dubbo-filter-cache/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler8894978064995133613arguments

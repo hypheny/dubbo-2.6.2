@@ -1,0 +1,1 @@
+/bin/sh -c cd /Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-rpc/dubbo-rpc-rest && javac @/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-rpc/dubbo-rpc-rest/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler6372942908241050601arguments

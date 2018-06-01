@@ -1,0 +1,1 @@
+/bin/sh -c cd /Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-container/dubbo-container-spring && javac @/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-container/dubbo-container-spring/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler7763945050554058826arguments

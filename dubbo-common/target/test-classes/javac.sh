@@ -1,0 +1,1 @@
+/bin/sh -c cd /Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-common && javac @/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-common/target/test-classes/org.codehaus.plexus.compiler.javac.JavacCompiler7569631908052573095arguments

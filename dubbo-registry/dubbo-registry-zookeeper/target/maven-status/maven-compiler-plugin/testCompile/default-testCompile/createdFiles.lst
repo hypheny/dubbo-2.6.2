@@ -1,0 +1,4 @@
+org.codehaus.plexus.compiler.javac.JavacCompiler3451731502470114352arguments
+javac.sh
+com/alibaba/dubbo/registry/zookeeper/ZookeeperRegistryTest$1.class
+com/alibaba/dubbo/registry/zookeeper/ZookeeperRegistryTest.class

@@ -1,0 +1,7 @@
+com/alibaba/dubbo/registry/redis/RedisRegistry.class
+com/alibaba/dubbo/registry/redis/RedisRegistry$NotifySub.class
+javac.sh
+com/alibaba/dubbo/registry/redis/RedisRegistry$Notifier.class
+com/alibaba/dubbo/registry/redis/RedisRegistryFactory.class
+org.codehaus.plexus.compiler.javac.JavacCompiler1763862945796772120arguments
+com/alibaba/dubbo/registry/redis/RedisRegistry$1.class

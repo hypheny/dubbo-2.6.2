@@ -1,0 +1,3 @@
+org.codehaus.plexus.compiler.javac.JavacCompiler339980031895860804arguments
+javac.sh
+com/alibaba/dubbo/remoting/zookeeper/curator/CuratorZookeeperClientTest.class

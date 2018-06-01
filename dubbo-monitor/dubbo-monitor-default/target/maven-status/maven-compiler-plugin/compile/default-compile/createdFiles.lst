@@ -1,0 +1,6 @@
+org.codehaus.plexus.compiler.javac.JavacCompiler642801254121675930arguments
+com/alibaba/dubbo/monitor/dubbo/DubboMonitor$1.class
+javac.sh
+com/alibaba/dubbo/monitor/dubbo/DubboMonitor.class
+com/alibaba/dubbo/monitor/dubbo/Statistics.class
+com/alibaba/dubbo/monitor/dubbo/DubboMonitorFactory.class

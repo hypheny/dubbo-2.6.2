@@ -1,0 +1,14 @@
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/integration/RegistryDirectory.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/support/ProviderConsumerRegTable.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/NotifyListener.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/RegistryFactory.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/support/AbstractRegistry.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/support/ConsumerInvokerWrapper.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/status/RegistryStatusChecker.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/RegistryService.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/Registry.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/support/SkipFailbackWrapperException.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/support/ProviderInvokerWrapper.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/integration/RegistryProtocol.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/support/FailbackRegistry.java
+/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-registry/dubbo-registry-api/src/main/java/com/alibaba/dubbo/registry/support/AbstractRegistryFactory.java

@@ -1,0 +1,6 @@
+org.codehaus.plexus.compiler.javac.JavacCompiler5741710139511654224arguments
+com/alibaba/dubbo/rpc/protocol/rmi/RmiProtocol.class
+com/alibaba/dubbo/rpc/protocol/rmi/RmiProtocol$2.class
+javac.sh
+com/alibaba/dubbo/rpc/protocol/rmi/RmiRemoteInvocation.class
+com/alibaba/dubbo/rpc/protocol/rmi/RmiProtocol$1.class

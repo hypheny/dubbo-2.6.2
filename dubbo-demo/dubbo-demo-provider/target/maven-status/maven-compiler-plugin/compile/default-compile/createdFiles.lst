@@ -1,0 +1,4 @@
+com/alibaba/dubbo/demo/provider/DemoServiceImpl.class
+org.codehaus.plexus.compiler.javac.JavacCompiler3713451145892730443arguments
+javac.sh
+com/alibaba/dubbo/demo/provider/Provider.class
