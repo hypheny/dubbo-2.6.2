@@ -1,6 +1,0 @@
-org.codehaus.plexus.compiler.javac.JavacCompiler941324412053960097arguments
-com/alibaba/dubbo/remoting/http/tomcat/TomcatHttpBinderTest$1.class
-com/alibaba/dubbo/remoting/http/tomcat/TomcatHttpBinderTest.class
-javac.sh
-com/alibaba/dubbo/remoting/http/jetty/JettyHttpBinderTest.class
-com/alibaba/dubbo/remoting/http/jetty/JettyHttpBinderTest$1.class

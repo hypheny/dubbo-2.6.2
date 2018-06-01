@@ -1,1 +1,0 @@
-/bin/sh -c cd /Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-remoting/dubbo-remoting-netty && javac @/Users/you-mac/Documents/apache-dubbo/incubator-dubbo/dubbo-remoting/dubbo-remoting-netty/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler6217713228782144939arguments

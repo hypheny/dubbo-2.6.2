@@ -1,9 +1,0 @@
-org.codehaus.plexus.compiler.javac.JavacCompiler341970019826024162arguments
-com/alibaba/dubbo/rpc/protocol/rmi/RemoteServiceImpl.class
-com/alibaba/dubbo/rpc/protocol/rmi/RmiProtocolTest$NonStdRmiInterface.class
-com/alibaba/dubbo/rpc/protocol/rmi/DemoServiceImpl.class
-com/alibaba/dubbo/rpc/protocol/rmi/Type.class
-javac.sh
-com/alibaba/dubbo/rpc/protocol/rmi/DemoService.class
-com/alibaba/dubbo/rpc/protocol/rmi/RmiProtocolTest.class
-com/alibaba/dubbo/rpc/protocol/rmi/RemoteService.class
